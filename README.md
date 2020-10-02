@@ -1,2 +1,2 @@
 # Chatbot-with-Rasa
-Rasa NLP chatbot
+Rasa NLP(Natural Language Processing) chatbot is a Conversational AI
